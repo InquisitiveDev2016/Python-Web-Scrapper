@@ -27,4 +27,4 @@ def download_imgs(url, amountOfImgs):
 
 
 
-print(download_imgs(url, 5))
+download_imgs(url, 5)
